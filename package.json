@@ -73,7 +73,7 @@
     "rollup-plugin-node-resolve": "^5.0.4",
     "rollup-plugin-terser": "^5.0.0",
     "tap": "^14.2.5",
-    "terser": "^4.0.0",
+    "terser": "^4.5.1",
     "trash-cli": "^3.0.0"
   },
   "remarkConfig": {
